@@ -50,7 +50,7 @@
 ### **DB 설계**
 ![image](https://github.com/dellogo/DOGOMI/assets/93125060/a224b650-4a46-4206-a40e-0c42d3fb4511)
 
-### **구현사항(PPT)**
+### **구현사항(PPT/본인 역할)**
 ![Image](https://github.com/user-attachments/assets/a2b690af-e45a-4afe-a315-0bcaa3751d8f)
 ![Image](https://github.com/user-attachments/assets/fbd8fbce-5714-4096-898e-240f29a8d5de)
 ![Image](https://github.com/user-attachments/assets/aa8c4abf-ed48-48f2-9fee-640f098c5a28)
