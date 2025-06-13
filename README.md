@@ -17,7 +17,7 @@
 
 > 프로젝트: DOGOMI
 >
-> 기획 및 제작: 김병제(Backend), 윤희성(Backend), 이웅희(Backend), 하수빈(Frontend), 홍서영(Backend)
+> 기획 및 제작: 김병제(팀장 & Backend), 윤희성(Backend), 이웅희(Backend), 하수빈(Frontend), 홍서영(Backend)
 >
 > 분류: 팀 프로젝트(5인)
 >
