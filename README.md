@@ -26,6 +26,10 @@
 > 주요 기능: 애견훈련소 리스트 정보 조회 및 검색, 훈련소별 훈련 예약 및 리뷰 조회&작성,<br>견주들이 소통할 수 있는 커뮤니티 조회&작성, 회원가입 및 로그인, 견주와 훈련소 각각의 마이페이지
 >
 > 사용 기술: Java, HTML, CSS, JavsScript, IntelliJ, Visual Studio Code, MySQL, MyBatis, Spring, TomCat
+>
+> 발표 자료(PDF): https://drive.google.com/file/d/1KXPQH4KDdqZQeDUiyQXVONzmrJAKU5Ur/view?usp=drive_link
+>
+> 더 많은 프로젝트 정보(Notion): https://www.notion.so/DOGOMI-TEAM-13e8c659c95f80e8bb81f79a90e97639?source=copy_link
 
 ## **⚒️ 기술 및 도구**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
